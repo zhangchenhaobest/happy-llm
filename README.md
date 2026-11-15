@@ -1,3 +1,29 @@
+# happy-llm
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An open-source tutorial on building large language models from scratch.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+从零开始构建大模型的开源教程。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align='center'>
     <img src="./images/head.jpg" alt="alt text" width="100%">
     <h1>Happy-LLM</h1>
